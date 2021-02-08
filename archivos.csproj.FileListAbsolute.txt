@@ -1,0 +1,11 @@
+C:\Users\Ivanesa\source\repos\archivos\archivos\bin\Debug\netcoreapp3.1\archivos.exe
+C:\Users\Ivanesa\source\repos\archivos\archivos\bin\Debug\netcoreapp3.1\archivos.deps.json
+C:\Users\Ivanesa\source\repos\archivos\archivos\bin\Debug\netcoreapp3.1\archivos.runtimeconfig.json
+C:\Users\Ivanesa\source\repos\archivos\archivos\bin\Debug\netcoreapp3.1\archivos.runtimeconfig.dev.json
+C:\Users\Ivanesa\source\repos\archivos\archivos\bin\Debug\netcoreapp3.1\archivos.dll
+C:\Users\Ivanesa\source\repos\archivos\archivos\bin\Debug\netcoreapp3.1\archivos.pdb
+C:\Users\Ivanesa\source\repos\archivos\archivos\obj\Debug\netcoreapp3.1\archivos.csprojAssemblyReference.cache
+C:\Users\Ivanesa\source\repos\archivos\archivos\obj\Debug\netcoreapp3.1\archivos.AssemblyInfoInputs.cache
+C:\Users\Ivanesa\source\repos\archivos\archivos\obj\Debug\netcoreapp3.1\archivos.AssemblyInfo.cs
+C:\Users\Ivanesa\source\repos\archivos\archivos\obj\Debug\netcoreapp3.1\archivos.dll
+C:\Users\Ivanesa\source\repos\archivos\archivos\obj\Debug\netcoreapp3.1\archivos.pdb
